@@ -1,0 +1,42 @@
+.main{
+    color:grey;
+    text-align: center;
+    height: 100px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.my{
+    color:red;
+    text-align: center;
+    height: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+.you{
+    color: white;
+    background-color:#4caf50;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+}
+.he{
+    color: white;
+    background-color:#4caf50;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    font-style: italic;
+}
+body{
+    background-color:aliceblue 
+}
